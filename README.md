@@ -68,8 +68,7 @@ These designs reflect a deep focus on **clarity, usability, and emotion** — al
 
 | Project | Figma Link |
 |----------|-------------|
-| 🧭 TRIPQUEST | (https://www.figma.com/design/ZdeBR8e5bkphb0ysZbkeMU/NM-UIUX-TravelApp-?node-id=0-1&p=f&t=mDCi0d4CMmbTa8oR-0) |
-|----------|-------------|
+| 🧭 TRIPQUEST | (https://www.figma.com/design/ZdeBR8e5bkphb0ysZbkeMU/NM-UIUX-TravelApp-?node-id=0-1&p=f&t=mDCi0d4CMmbTa8oR-0) 
 | 💪 MR.ROBOT | 
 (https://www.figma.com/proto/zG8K1Vju7hyFg4hYChLF1R/Rudhran?node-id=0-1&t=uNKiQhPOZVkQeqkq-1) |
 | 🎵 TUNE BOX  | 
